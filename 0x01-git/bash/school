@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "The school is open!"
 echo goal
 =======
@@ -9,3 +10,6 @@ echo "School"
 =======
 echo "School"
 >>>>>>> parent of a59c7dd... git merge
+=======
+echo "School"
+>>>>>>> parent of 6302332... conflict resolved
