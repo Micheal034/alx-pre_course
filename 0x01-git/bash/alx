@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 echo "shodjdb"
+=======
+echo "ALX School is so cool!"
+>>>>>>> parent of a59c7dd... git merge
 =======
 echo "ALX School is so cool!"
 >>>>>>> parent of a59c7dd... git merge
